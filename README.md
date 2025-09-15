@@ -2,7 +2,6 @@
 This repository contains the data structures code from my classes from MC202 at UNICAMP.
 
 ## Summary
-0. Algorithm Efficiency Fundamentals
 1. Vectors
 2. Linked Lists
 3. Linked Lists Variations
