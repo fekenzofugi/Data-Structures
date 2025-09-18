@@ -1,5 +1,5 @@
 # Data Structures
-This repository contains the data structures code from my classes from MC202 at UNICAMP.
+This repository contains the data structures theory from my classes from MC202 at UNICAMP.
 
 ## Summary
 1. Vectors
