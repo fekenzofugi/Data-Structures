@@ -2,9 +2,9 @@
 This repository contains the data structures theory from my classes from MC202 at UNICAMP.
 
 ## Summary
-1. Vectors
-2. Linked Lists
-3. Linked Lists Variations
+1. [Vectors](/1-Vectors.md)
+2. [Linked Lists](/2-Linked-Lists.md)
+3. [Linked Lists Variations](/3-Linked-Lists-Variations.md)
 4. Stack and Queue
 5. Stack Applications
 6. Binary Tree
